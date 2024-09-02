@@ -8,7 +8,7 @@ namespace Behsa.CoinShop.Infrastructure;
 
 public static class ConfigureServices
 {
-    public static IServiceCollection RegisterPersistenceServices(this IServiceCollection services, IConfiguration configuration)
+    public static IServiceCollection RegisterInfrastructureServices(this IServiceCollection services, IConfiguration configuration)
     {
 
         services.AddDbContext<ApplicationDbContext>(options =>

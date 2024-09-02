@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behsa.CoinShop.Infrastructu
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{D6971E2E-CF4C-4E5C-9B63-2D91FCFBB087}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behsa.CoinShop.Api", "Behsa.CoinShop.Api\Behsa.CoinShop.Api.csproj", "{855F61A5-E27B-471B-B5CB-793EDB7057EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{6A69373D-9BDD-4E92-A49F-0FB42AA98AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A69373D-9BDD-4E92-A49F-0FB42AA98AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A69373D-9BDD-4E92-A49F-0FB42AA98AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{855F61A5-E27B-471B-B5CB-793EDB7057EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{855F61A5-E27B-471B-B5CB-793EDB7057EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{855F61A5-E27B-471B-B5CB-793EDB7057EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{855F61A5-E27B-471B-B5CB-793EDB7057EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +47,7 @@ Global
 		{68A81ADA-0C5C-4F3F-9822-B9DE6B883558} = {A15141AB-DC12-4244-8804-B5B3B535A322}
 		{0FA1F6F8-6E30-484B-ADDA-C345879C35C2} = {A15141AB-DC12-4244-8804-B5B3B535A322}
 		{6A69373D-9BDD-4E92-A49F-0FB42AA98AF6} = {C58392FA-BE5A-4F04-A422-E68BA2F43D76}
+		{855F61A5-E27B-471B-B5CB-793EDB7057EB} = {D6971E2E-CF4C-4E5C-9B63-2D91FCFBB087}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4689B397-C426-4A97-9B20-2FA2691A6653}
